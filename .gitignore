@@ -10,3 +10,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# maven build directory
+target/*
+
+# eclipse project files
+.classpath
+.project
+
+# other temp files
+test.zip
